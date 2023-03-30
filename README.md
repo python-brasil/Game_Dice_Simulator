@@ -8,7 +8,7 @@
 
 ## Screenshot
 
-(![gif-github](https://user-images.githubusercontent.com/126124866/228938784-9ac4b949-ad81-4368-832b-44870601dd10.gif))
+![gif-github](https://user-images.githubusercontent.com/126124866/228938784-9ac4b949-ad81-4368-832b-44870601dd10.gif)
 
 ## Author
 
